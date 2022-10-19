@@ -24,18 +24,20 @@ ul{
   padding: 12px 32px;
   font-size:1rem;
   text-transform:uppercase;
-  background-color:rgb(228, 160, 13);
-  color:#2222;
+  background-color:rgb(238, 114, 12);
+  color:black;
   border:1px solid #ffff;
+  border-radius:10px;
   font-weight:600;
   cursor: pointer;
+
 }
 .btn-light{
   background:transparent;
   color:#fff;
 }
 .btn:hover{
-  background:rgba(255,255,255,0.2);
+  background:rgba(255, 255, 255, 0.274);
   color:#fff;
   transition:0.3s;
 }
