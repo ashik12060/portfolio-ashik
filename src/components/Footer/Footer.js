@@ -10,7 +10,7 @@ const Footer = () => {
                     <div className="location">
                         <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
                         <div>
-                        <p>Housing society</p>
+                        <p>Green Road, Dhanmondi</p>
                         <p>Bangladesh</p>
                     </div>
                     </div>
@@ -34,6 +34,7 @@ const Footer = () => {
 
 
                 </div>
+                
                 <div className="right">
                     <h4>
                         About the company
