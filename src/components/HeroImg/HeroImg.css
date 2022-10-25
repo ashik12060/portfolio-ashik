@@ -43,10 +43,15 @@
     text-transform: uppercase;
 }
 
-.content .btn{
-    margin: 1rem 0.2rem;
+.btn-grp{
+    margin:10px
 }
-
+.btn-style{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 1rem 5.2rem;
+}
 @media screen and (max-width:640px) {
     .hero .content h1{
         font-size: 3rem;
