@@ -12,11 +12,11 @@ const Card = (props) => {
                     
                     <div className="pro-btns">
                         <span>
-                            <a className="btn" href={props.view}>view</a>
+                            <a className="btn" href={props.view}  target="_blank" rel="noopener noreferrer">view</a>
                         </span>
 
                         <span>
-                            <a className="btn" href={props.source}>Source</a>
+                            <a className="btn" href={props.source} target="_blank" rel="noopener noreferrer">Source</a>
                         </span>
                     </div>
                 </div>

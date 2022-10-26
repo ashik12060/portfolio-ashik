@@ -18,6 +18,7 @@ const WorkCard = () => {
                         title={val.title}
                         text={val.title}
                         view={val.view}
+                        source={val.source}
                         ></Card>
                     )
                 })
