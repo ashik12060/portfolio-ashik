@@ -1,6 +1,5 @@
 import './Card.css';
 import React from 'react';
-import { NavLink } from 'react-router-dom';
 
 const Card = (props) => {
     return (
@@ -8,11 +7,17 @@ const Card = (props) => {
             <div className="project-card">
                 <img src={props.pImg} alt="panda-ecommerce" />
                 <h2 className="project-title">{props.title}</h2>
+                <p>{props.text}</p>
                 <div className="pro-details">
-                    <p>{props.text}</p>
+                    
                     <div className="pro-btns">
-                        <NavLink to={props.view} className="btn">View</NavLink>
-                        <NavLink to="url.com" className="btn">Source</NavLink>
+                        <span>
+                            <a className="btn" href={props.view}>view</a>
+                        </span>
+
+                        <span>
+                            <a className="btn" href={props.source}>Source</a>
+                        </span>
                     </div>
                 </div>
             </div>

@@ -10,65 +10,65 @@ import img9 from '../../assets/port-ashik.JPG';
 const Projects = [
     {
         urlImg :img1,
-        title: "lorem23sdalhojashdfjohsdjkfhas",
+        title: "Panda E-commerce",
         text:"sdfhioashfoiuphsiouvhsaodihfosdjfoasdjfoijsadojfoisdajfoi",
-        view:"https://www.youtube.com/watch?v=0h2b4ftbZcU"
+        view:"https://ashik12060.github.io/panda-ecommerce-using-bootstrap/" //panda ecommerce
 
     },
     {
         urlImg :img2,
         title: "lorem23sdalhojashdfjohsdjkfhas",
         text:"sdfhioashfoiuphsiouvhsaodihfosdjfoasdjfoijsadojfoisdajfoi",
-        view:"https://ashik12060.github.io/panda-ecommerce-using-bootstrap/"
+        view:"https://ashik12060.github.io/panda-ecommerce-using-bootstrap/" //EMA JOHN
 
     },
     {
         urlImg :img3,
         title: "lorem23sdalhojashdfjohsdjkfhas",
         text:"sdfhioashfoiuphsiouvhsaodihfosdjfoasdjfoijsadojfoisdajfoi",
-        view:"https://ashik12060.github.io/panda-ecommerce-using-bootstrap/"
+        view:"https://ashik12060.github.io/shopping-cart-sample/" // SHOPPING CART
 
     },
     {
         urlImg :img4,
         title: "lorem23sdalhojashdfjohsdjkfhas",
         text:"sdfhioashfoiuphsiouvhsaodihfosdjfoasdjfoijsadojfoisdajfoi",
-        view:"https://www.youtube.com/watch?v=0h2b4ftbZcU"
+        view:"ashik12060.github.io/mac-book-pro/"  //MAC BOOK
 
     },
     {
         urlImg :img5,
         title: "lorem23sdalhojashdfjohsdjkfhas",
         text:"sdfhioashfoiuphsiouvhsaodihfosdjfoasdjfoijsadojfoisdajfoi",
-        view:"https://ashik12060.github.io/panda-ecommerce-using-bootstrap/"
+        view:"https://ashik12060.github.io/frange-store/" //FRANGE STROE 
 
     },
     {
         urlImg :img6,
         title: "lorem23sdalhojashdfjohsdjkfhas",
         text:"sdfhioashfoiuphsiouvhsaodihfosdjfoasdjfoijsadojfoisdajfoi",
-        view:"https://ashik12060.github.io/panda-ecommerce-using-bootstrap/"
+        view:"ashik12060.github.io/pin-code-generator/"  // PIN MATCHER 
 
     },
     {
         urlImg :img7,
         title: "lorem23sdalhojashdfjohsdjkfhas",
         text:"sdfhioashfoiuphsiouvhsaodihfosdjfoasdjfoijsadojfoisdajfoi",
-        view:"https://www.youtube.com/watch?v=0h2b4ftbZcU"
+        view:"ashik12060.github.io/book-search/" //BOOK SEARCH 
 
     },
     {
         urlImg :img8,
         title: "lorem23sdalhojashdfjohsdjkfhas",
         text:"sdfhioashfoiuphsiouvhsaodihfosdjfoasdjfoijsadojfoisdajfoi",
-        view:"https://ashik12060.github.io/panda-ecommerce-using-bootstrap/"
+        view:"ashik12060.github.io/food-network/", //FOOD NETWORK
 
     },
     {
         urlImg :img9,
         title: "lorem23sdalhojashdfjohsdjkfhas",
         text:"sdfhioashfoiuphsiouvhsaodihfosdjfoasdjfoijsadojfoisdajfoi",
-        view:"https://ashik12060.github.io/panda-ecommerce-using-bootstrap/"
+        view:"https://ashik12060.github.io/personal-portfolio-2/" //PORT ASHIK
 
     },
 ]

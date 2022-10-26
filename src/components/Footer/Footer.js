@@ -1,6 +1,6 @@
 import './Footer.css';
 import React from 'react';
-import { FaFacebook, FaHome, FaLinkedin, FaMailBulk, FaPhone, FaTwitter } from 'react-icons/fa';
+import { FaFacebook, FaHome, FaInstagram, FaLinkedin, FaMailBulk, FaPhone } from 'react-icons/fa';
 
 const Footer = () => {
     return (
@@ -10,16 +10,22 @@ const Footer = () => {
                     <div className="location">
                         <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
                         <div>
-                        <p>Green Road, Dhanmondi</p>
-                        <p>Bangladesh</p>
-                    </div>
+                            <p>Green Road, Dhanmondi</p>
+                            <p>Bangladesh</p>
+                        </div>
                     </div>
 
-                    
 
+
+
+                    <div>
+                        <i class="fa-brands fa-facebook"></i>
+                    </div>
                     <div className="phone">
                         <h4>
+
                             <FaPhone size={20} style={{ color: "#fff", marginRight: "2rem" }} />
+
                             +880 1317424004
                         </h4>
                     </div>
@@ -34,21 +40,41 @@ const Footer = () => {
 
 
                 </div>
-                
+
                 <div className="right">
                     <h4>
-                        About the company
+                        About me!
                     </h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere possimus neque sit quidem veritatis, adipisci quae beatae, dicta voluptates repellat quo, incidunt assumenda.</p>
+                    <p>I am a Web Developer with a
+                        professional expertise in the field of
+                        Web application development with
+                        MERN stack. I have a strong passion
+                        over technologies. One of my biggest
+                        strengths is, I believe in result..</p>
 
 
                     <div className="social">
-                        <FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }} />
+                        <span>
+                            <a href="https://www.facebook.com/wd.ashik04" target="_blank" rel="noopener noreferrer">
+                                <FaFacebook size={40} style={{ color: "#fff", marginRight: "1rem" }} />
+                            </a>
 
-                        <FaTwitter size={30} style={{ color: "#fff", marginRight: "1rem" }} />
+                        </span>
+                        <span>
+                            <a href="https://www.instagram.com/ashik_mahmood15/" target="_blank" rel="noopener noreferrer">
+                                <FaInstagram size={40} style={{ color: "#fff", marginRight: "1rem" }} />
+                            </a>
 
-                        <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
+                        </span>
+                        <span>
+                            <a href="https://www.linkedin.com/in/ashik-mahmood060/" target="_blank" rel="noopener noreferrer">
+                                <FaLinkedin size={40} style={{ color: "#fff", marginRight: "1rem" }} />
+                            </a>
+
+                        </span>
+
                     </div>
+
                 </div>
 
 

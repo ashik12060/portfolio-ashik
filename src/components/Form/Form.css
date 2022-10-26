@@ -1,14 +1,42 @@
 label{
-    color:white;
     margin-bottom:.5rem;
+    font-size:16px;
 }
+.form-container{
+    background-color:rgb(231, 229, 229);
+    width:40%;
+    align-items:center;
+    justify-content:center;
+    border-radius: 15px;
+    margin: 30px auto;
+    
+    
+}
+
 form{
+    
     display:flex;
     flex-direction:column;
     padding:4rem 1rem;
-    margin:auto;
+    margin: auto;
     max-width: 600px;
 }
+.form-btn{
+    padding: 12px 32px;
+    font-size:1.2rem;
+    text-transform:uppercase;
+    background-color:rgb(238, 114, 12);
+    color:black;
+    border:1px solid #ffff;
+    border-radius:10px;
+    font-weight:600;
+    cursor: pointer;
+  
+  }
+  .form-btn:hover{
+    background-color:rgb(128, 112, 112);
+    color:white;
+  }
 .btn{
     font-size:20px;
     font-weight:bold;
@@ -18,8 +46,8 @@ form input, form textarea{
     margin-bottom:1rem;
     padding:10px 18px;
     font-size: 1.2rem;
-    background-color:rgb(87, 84, 84);
+    background-color:rgb(235, 234, 234);
     border-color:rgb(32, 28, 28);
     border-radius:10px;
-    color:#f4f4f4;
+    color:#0c0c0c;
 }

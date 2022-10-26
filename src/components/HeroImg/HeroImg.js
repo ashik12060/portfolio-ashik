@@ -11,10 +11,10 @@ const HeroImg = () => {
             </div>
             <div className="content">
                 <p>I'm Ashik Mahmood!</p>
-                <h1>React Developer</h1>
-                <div className="btn-style">
+                <h1>MERN Stack Developer</h1>
+                <div className="btn-style"> 
                     <div className="btn-grp">
-                        <a className="btn" href="https://drive.google.com/file/d/1JCCL82cb0_u8r9gWoKTYvAoTzFQZccIp/view?usp=sharing" >RESUME</a>
+                        <a className="btn" href="https://drive.google.com/file/d/1JCCL82cb0_u8r9gWoKTYvAoTzFQZccIp/view?usp=sharing" target="_blank" rel="noopener noreferrer">RESUME</a>
                     </div>
                     <div>
                         <Link to="/contact" className="btn btn-light">Contact</Link>
