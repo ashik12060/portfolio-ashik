@@ -20,13 +20,15 @@ ul{
   list-style-type: none;
   
 }
+
+
+
 .btn{
   padding: 12px 32px;
   font-size:1rem;
+  border: none;
   text-transform:uppercase;
-  background-color:rgb(238, 114, 12);
-  color:black;
-  border:1px solid #ffff;
+  background-image: linear-gradient(to left,#FFC312, #ee5a24, #ffc312);  color:black;
   border-radius:10px;
   font-weight:600;
   cursor: pointer;
@@ -37,7 +39,8 @@ ul{
   color:#fff;
 }
 .btn:hover{
-  background:rgba(255, 255, 255, 0.274);
-  color:#fff;
-  transition:0.3s;
+  background-image: linear-gradient(to left,#FFC312, #ee5a24, #ffc312);
+  color:#f5e7e7;
+  padding:13px 34px;
+  transition:0.8s;
 }

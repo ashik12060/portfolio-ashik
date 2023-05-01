@@ -10,8 +10,8 @@ const Footer = () => {
                     <div className="location">
                         <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
                         <div>
-                            <p>Green Road, Dhanmondi</p>
-                            <p>Bangladesh</p>
+                            <p>Green Road, Dhanmondi,</p>
+                            <p>Dhaka, Bangladesh</p>
                         </div>
                     </div>
  
@@ -45,12 +45,7 @@ const Footer = () => {
                     <h4>
                         About me!
                     </h4>
-                    <p>I am a Web Developer with a
-                        professional expertise in the field of
-                        Web application development with
-                        MERN stack. I have a strong passion
-                        over technologies. One of my biggest
-                        strengths is, I believe in result..</p>
+                    <p>I am a Web Developer with professional expertise in the field of Web application development. I have a strong passion over technologies. One of my biggest strengths is, I believe in result.</p>
 
 
                     <div className="social">

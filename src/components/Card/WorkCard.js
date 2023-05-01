@@ -7,6 +7,7 @@ const WorkCard = () => {
     return (
         
         <div>
+            <h1 className="heading-trop">My Projects</h1> <hr />
             <div className="work-container">
             
             {

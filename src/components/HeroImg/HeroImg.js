@@ -11,13 +11,21 @@ const HeroImg = () => {
             </div>
             <div className="content">
                 <p>I'm Ashik Mahmood!</p>
-                <h1>MERN Stack Developer</h1>
-                <div className="btn-style"> 
-                    <div className="btn-grp">
-                        <a className="btn" href="https://drive.google.com/file/d/1JCCL82cb0_u8r9gWoKTYvAoTzFQZccIp/view?usp=sharing" target="_blank" rel="noopener noreferrer">RESUME</a>
+                <h1 className="header-style">Web Developer</h1>
+                <div className="btn-style">
+                    <div className=" btn-container-1">
+                       
+                        <a  className=" btn-btn new-btn-form" href="https://drive.google.com/file/d/1-BQbPRzQAqdGNYv-ScO4C_-sta8pJF8u/view?usp=share_link" target="_blank" rel="noreferrer">Resume</a>
+
                     </div>
+                    <div className="btn-container-1">
+                        <Link to="/contact" className=" btn-btn new-btn-form new-link">Contact</Link>
+
+                    </div>
+
+
                     <div>
-                        <Link to="/contact" className="btn btn-light">Contact</Link>
+
                     </div>
                 </div>
             </div>

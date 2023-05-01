@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef4e9b18.css",
+    "main.js": "/static/js/main.0c995604.js",
+    "static/media/hero2.jpg": "/static/media/hero2.cfcf60377411b7e46ef2.jpg",
+    "static/media/hero-img1.jpg": "/static/media/hero-img1.2e30ca0bfa4eb18745bf.jpg",
+    "static/media/ashik.jpg": "/static/media/ashik.a2bcd999721a111b46a9.jpg",
+    "static/media/book-search.JPG": "/static/media/book-search.7c904711ad1f359fd3ad.JPG",
+    "static/media/frange-store.JPG": "/static/media/frange-store.2337300de4ce46c137fc.JPG",
+    "static/media/ema-john.JPG": "/static/media/ema-john.f62b9b9019ada557fc6a.JPG",
+    "static/media/food-network.JPG": "/static/media/food-network.cfe2572dc9f26350f234.JPG",
+    "static/media/mac-book-pro.JPG": "/static/media/mac-book-pro.01bea34fec2badf45fa4.JPG",
+    "static/media/port-ashik.JPG": "/static/media/port-ashik.705a833b9e146bf5f797.JPG",
+    "static/media/pin match.JPG": "/static/media/pin match.01ab8d6d0b01ff65bf34.JPG",
+    "static/media/shopping-cart.JPG": "/static/media/shopping-cart.5f56b09619eb2118b5e1.JPG",
+    "static/media/panda-eco.JPG": "/static/media/panda-eco.58c77e8c3b8b5688d92b.JPG",
+    "index.html": "/index.html",
+    "main.ef4e9b18.css.map": "/static/css/main.ef4e9b18.css.map",
+    "main.0c995604.js.map": "/static/js/main.0c995604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef4e9b18.css",
+    "static/js/main.0c995604.js"
+  ]
+}

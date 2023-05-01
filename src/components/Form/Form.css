@@ -8,11 +8,17 @@ label{
     align-items:center;
     justify-content:center;
     border-radius: 15px;
-    margin: 30px auto;
-    
-    
+    margin: 30px auto; 
 }
-
+.form-container h2{
+    text-align:center;
+    padding-top:45px;
+}
+.form-container hr{
+    width:62%;
+    margin-left: 100px;
+    border: 1px solid;
+}
 form{
     
     display:flex;
@@ -21,26 +27,40 @@ form{
     margin: auto;
     max-width: 600px;
 }
-.form-btn{
-    padding: 12px 32px;
-    font-size:1.2rem;
-    text-transform:uppercase;
-    background-color:rgb(238, 114, 12);
-    color:black;
-    border:1px solid #ffff;
-    border-radius:10px;
-    font-weight:600;
+
+
+
+
+/* adding btn style */
+
+.btn-container-1{
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+ }
+ .btn-btn{
+    border:none;
+    margin-top: 80px;
+    margin-left: 250px;
+    padding: 20px;
+    width: 510px;
+    text-transform: uppercase;
+    border-radius:6px;
     cursor: pointer;
-  
-  }
-  .form-btn:hover{
-    background-color:rgb(128, 112, 112);
-    color:white;
-  }
-.btn{
-    font-size:20px;
-    font-weight:bold;
-}
+    font-size: 20px;
+    color:#fff;
+    background-size: 200%;
+    transition: 0.6s;
+ }
+ 
+ .new-btn-form{
+    background-image: linear-gradient(to left,#FFC312, #ee5a24, #ffc312)
+ }
+ .btn-btn:hover{
+    background-position: right;
+ }
+  /* btn style stopped */
+ 
 
 form input, form textarea{
     margin-bottom:1rem;

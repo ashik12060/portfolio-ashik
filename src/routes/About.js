@@ -7,7 +7,7 @@ const About = () => {
     return (
         <div>
             <Navbar></Navbar>
-            <Heroimg2 heading="ABOUT" text="I am a friendly with MERN Stack Development."></Heroimg2>
+            <Heroimg2 heading="ABOUT" text="I am a friendly with Full Stack Development."></Heroimg2>
             <AboutContent></AboutContent>
             <Footer></Footer>
             
