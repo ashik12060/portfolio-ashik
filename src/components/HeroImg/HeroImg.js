@@ -18,7 +18,7 @@ const HeroImg = () => {
                         <a  className=" btn-btn new-btn-form" href="https://drive.google.com/file/d/1-BQbPRzQAqdGNYv-ScO4C_-sta8pJF8u/view?usp=share_link" target="_blank" rel="noreferrer">Resume</a>
 
                     </div>
-                    <div className="btn-container-1">
+                    <div className="btn-container-1 contact-container">
                         <Link to="/contact" className=" btn-btn new-btn-form new-link">Contact</Link>
 
                     </div>

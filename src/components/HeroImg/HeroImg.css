@@ -55,8 +55,11 @@
 .btn-container-1{
     transform: translate(-50%, -50%);
     text-align: center;
-    
-    
+  
+ }
+
+ .contact-container{
+    padding-right:400px;
  }
  .btn-btn{
     border:none;
@@ -80,7 +83,7 @@
  }
 
  .new-link{
-    padding-right: 400px;
+    padding-right: 800px;
  }
   /* btn style stopped */
  
