@@ -1,7 +1,32 @@
 .work-container{
     display:grid;
     grid-template-columns: repeat(3,1fr);
+    overflow: hidden;
 }
+
+@media only screen and (max-width: 400px) {
+    
+    .work-container{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .pro-btns{
+        display:flex;
+        flex-direction: column;
+        padding-top:1rem;
+        margin-top: 15px;
+    }
+    
+}
+@media only screen and (max-width: 745px) {
+   
+    .work-container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
 
 .project-heading{
     text-align: center;
@@ -22,7 +47,7 @@
     margin: 2rem ;
     border-radius: 10px;
     box-shadow: 1px 8px 8px 5px rgb(22, 21, 21);
-
+    
 }
 
 .project-card img{
@@ -61,15 +86,3 @@ hr{
     width: 19%;
     margin-left: 543px;
 }
-
-
-@media screen and (max-width:740px){
-    .project-container{
-        max-width:90%;
-        margin: auto;
-        grid-template-columns: 1fr;
-    }
-    
-}
-
-

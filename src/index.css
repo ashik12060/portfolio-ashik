@@ -41,6 +41,5 @@ ul{
 .btn:hover{
   background-image: linear-gradient(to left,#FFC312, #ee5a24, #ffc312);
   color:#f5e7e7;
-  padding:13px 34px;
-  transition:0.8s;
+  transition:0.2s;
 }

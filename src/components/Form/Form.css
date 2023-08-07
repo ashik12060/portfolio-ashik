@@ -38,7 +38,7 @@ form{
     text-align: center;
     
  }
- .btn-btn{
+ .btn-btn2{
     border:none;
     margin-top: 80px;
     margin-left: 250px;
@@ -54,10 +54,10 @@ form{
  }
  
  .new-btn-form{
-    background-image: linear-gradient(to left,#FFC312, #ee5a24, #ffc312)
+    background-image: linear-gradient(to left,#FFC312, #ee5a24, #ffc312);
  }
- .btn-btn:hover{
-    background-position: right;
+ .btn-btn2:hover{
+    background-position: center;
  }
   /* btn style stopped */
  

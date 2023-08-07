@@ -4,7 +4,7 @@ import React from 'react';
 const Form = () => {
     return (
         <div className="form-container">
-            <h2>Let me know your needs</h2>
+            <h2>Let me know your query</h2>
             <hr />
             <form action="https://formspree.io/f/xnqrgpey" method="post" >
                 <label>Name</label>
@@ -17,7 +17,7 @@ const Form = () => {
                 <textarea rows="6" name="Messages" placeholder="Type your message here" required></textarea>
             
                 <div className="btn-container-1">
-                    <button className="btn-btn new-btn-form">Send</button>
+                    <button className="btn-btn2 new-btn-form">Send</button>
                 </div>
             </form>
         </div>

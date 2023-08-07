@@ -1,0 +1,39 @@
+.bg-progress{
+        background-color: rgb(54, 52, 52);
+        padding-bottom: 100px;
+        padding-top: 100px;
+       
+}
+.bg-progress h1{
+    text-align: center;
+}
+
+.custom-progress-bar {
+    background-color: white; 
+    color:white;
+    font-variant: red;
+    border-radius: 10px;
+    
+    }
+
+    .custom-progress-bar .progress-bar {
+        border-radius: 10px;
+        text-align: center;
+        background-color: #ff8f27; 
+         height: 14px;
+         font-size: 10px;
+         padding-bottom: 10px;
+        
+    }
+
+
+.expertise-container{
+   margin-bottom: 50px;
+    margin-left: 100px; 
+     margin-right: 300px;
+    color: white;
+}
+.expertise-container h6{
+    font-size: 14px;
+    font-style: italic;
+}
